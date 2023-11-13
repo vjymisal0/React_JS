@@ -14,7 +14,7 @@ const page = () => {
   }
   return (
     <>
-  
+
       <div>
         <button onClick={getImages} className='px-5 py-3 bg-green-600 text-white'>Get Images</button>
         <div className='p-10'>
